@@ -7,7 +7,7 @@ This repository contains the source code for a basic e-commerce website built us
 
 ## Demo
 
-You can view a live demo of the e-commerce website [here](#).
+You can view a live demo of the e-commerce website [here](http://127.0.0.1:5500/E-COMMERCE.html).
 
 ## Features
 
