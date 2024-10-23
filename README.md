@@ -1,6 +1,6 @@
 # E-Commerce
 
-```markdown
+
 # E-Commerce Website
 
 This repository contains the source code for a basic e-commerce website built using **HTML**, **CSS**, and **JavaScript**. The project features a homepage with product listings, a product details page, a shopping cart, and basic functionalities like adding/removing items from the cart, price calculation, and form validation.
