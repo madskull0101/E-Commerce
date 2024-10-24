@@ -20,7 +20,7 @@ You can view a live demo of the e-commerce website [here](http://127.0.0.1:5500/
 ## Preview
 
 ![E-Commerce Website Preview](https://github.com/user-attachments/assets/4d9f278b-55a9-4ad7-ad54-8d11d8db8873)
-![E-Commerce Website Preview](https://github.com/user-attachments/assets/1c1d4400-912e-4d31-ae46-a04dcc21b64e)
+![E-Commerce Website Preview](https://github.com/user-attachments/assets/da724d30-90aa-41b6-b17d-8d71698c6188)
 
 
 
@@ -115,4 +115,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 If you have any questions or suggestions, feel free to contact me at [youremail@example.com](jhaa78144@gmail.com).
 
-```
